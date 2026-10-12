@@ -13,10 +13,10 @@ Sitio estático (HTML + CSS, sin build ni dependencias) pensado para presencia d
 Cada página repite su propio `<header>` y `<footer>`; si cambias el menú, cámbialo en los 7 HTML. El teléfono (+52 624 155 8139) y el correo (acl.ingenieria@outlook.com) aparecen en todas las páginas: búscalos y reemplázalos si cambian.
 
 ## Dominio
-Todas las URLs absolutas usan `https://www.aclengineering.com`. Si el dominio comprado en GoDaddy es otro, reemplázalo en todos los archivos:
+Todas las URLs absolutas usan `https://www.aclengineering.mx`. Si el dominio comprado en GoDaddy es otro, reemplázalo en todos los archivos:
 
 ```bash
-cd acl-web && grep -rl "www.aclengineering.com" . | xargs sed -i '' 's|www.aclengineering.com|TU-DOMINIO.com|g'
+cd acl-web && grep -rl "www.aclengineering.mx" . | xargs sed -i '' 's|www.aclengineering.mx|TU-DOMINIO.com|g'
 ```
 
 ## Probar en local

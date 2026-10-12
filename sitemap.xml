@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.aclengineering.com/</loc>
+    <loc>https://www.aclengineering.mx/</loc>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.aclengineering.com/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.aclengineering.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.aclengineering.mx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aclengineering.mx/en/"/>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/automatizacion-residencial-los-cabos.html</loc>
+    <loc>https://www.aclengineering.mx/automatizacion-residencial-los-cabos.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/control-de-iluminacion-lutron.html</loc>
+    <loc>https://www.aclengineering.mx/control-de-iluminacion-lutron.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/audio-y-video.html</loc>
+    <loc>https://www.aclengineering.mx/audio-y-video.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/redes-y-seguridad.html</loc>
+    <loc>https://www.aclengineering.mx/redes-y-seguridad.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/la-paz.html</loc>
+    <loc>https://www.aclengineering.mx/la-paz.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.aclengineering.com/en/</loc>
+    <loc>https://www.aclengineering.mx/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.aclengineering.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.aclengineering.com/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.aclengineering.mx/en/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://www.aclengineering.mx/"/>
   </url>
 </urlset>
