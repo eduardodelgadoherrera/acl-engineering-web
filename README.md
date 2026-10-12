@@ -12,6 +12,9 @@ Sitio estático (HTML + CSS, sin build ni dependencias) pensado para presencia d
 
 Cada página repite su propio `<header>` y `<footer>`; si cambias el menú, cámbialo en los 7 HTML. El teléfono (+52 624 155 8139) y el correo (acl.ingenieria@outlook.com) aparecen en todas las páginas: búscalos y reemplázalos si cambian.
 
+## Logotipos de marcas
+`img/marcas/`: Sonos, Panduit, TP-Link y Samsung desde Wikimedia Commons; Sonance, FX Luminaire, DMF, Nexus 21 y Panamax desde los sitios oficiales de cada marca; Ruckus (CommScope) desde Commons. Lutron y James van como texto porque sus sitios bloquean la descarga automática: si consigues sus archivos oficiales, guárdalos como `lutron.svg` y `james.svg` y cambia el `<span class="wordmark">` por `<img>` en `index.html` y `en/index.html`. Uso nominativo: son marcas que ACL integra; no implican patrocinio.
+
 ## Dominio
 Todas las URLs absolutas usan `https://www.aclengineering.mx`. Si el dominio comprado en GoDaddy es otro, reemplázalo en todos los archivos:
 
