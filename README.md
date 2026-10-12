@@ -25,7 +25,12 @@ python3 -m http.server 8080 --directory acl-web
 ```
 y abre http://localhost:8080
 
-## Publicar
+## Publicado (2026-10-12)
+- Repo: https://github.com/rubengallardo88/acl-engineering-web (GitHub Pages, rama `main`, raíz). Cada `git push` a `main` publica solo en 1–2 minutos.
+- Dominio: `www.aclengineering.mx` (archivo `CNAME`); el dominio raíz redirige a www. DNS en GoDaddy: 4 registros A (185.199.108–111.153) y CNAME `www` → `rubengallardo88.github.io`.
+- Para pasarle el control a Lalo: en GitHub, Settings → General → Transfer ownership al usuario de Lalo (o `gh api -X POST repos/rubengallardo88/acl-engineering-web/transfer -f new_owner=USUARIO`). Después cambiar en GoDaddy el CNAME `www` a `USUARIO.github.io` y revisar en el repo Settings → Pages que el dominio siga en `www.aclengineering.mx` con "Enforce HTTPS".
+
+## Publicar en otro lado (alternativas)
 Opción A — **Hosting de GoDaddy (cPanel)**: entra a cPanel → Administrador de archivos → `public_html` y sube el contenido de `acl-web/` (los archivos, no la carpeta). Activa el certificado SSL gratuito en GoDaddy.
 
 Opción B (recomendada, gratis y más rápida) — **Cloudflare Pages / Netlify / Vercel**: arrastra la carpeta `acl-web/` al panel del servicio, obtén la URL y en GoDaddy → DNS crea un registro `CNAME` de `www` apuntando a esa URL y redirige el dominio raíz a `www`. Si el proyecto está en GitHub, conéctalo para que cada cambio se publique solo.
