@@ -8,6 +8,7 @@
 - Marcas que integra: Lutron (HomeWorks QSX, RadioRA 3, Caséta, Sivoia QS), Sonos, Sonance, James Loudspeaker, DMF Lighting, FX Luminaire, Panduit, Ruckus, TP‑Link Omada, Blustream, Nexus 21, Panamax, Samsung.
 - Clientes: propietarios, constructoras, arquitectos, diseñadores de interiores y administradores de propiedades. Cotizaciones por áreas y sistemas, en USD o MXN, vigencia 10 días. Entrega con programación, pruebas, capacitación, respaldo y memoria técnica.
 - Idiomas: español e inglés.
+- Escala de proyectos: desde audio para una sala (1 zona) y remodelaciones de departamentos (10–25 cargas), hasta villas integrales de 5 sistemas (100+ partidas por sistema), conjuntos de casitas (100+ salidas de datos) y obra comercial/hotelera (≈200 contactos). Por privacidad no se publican nombres de clientes ni residencias.
 
 ## Páginas
 - [Inicio](https://www.aclengineering.mx/): servicios, zonas, proyectos, preguntas frecuentes y contacto.
